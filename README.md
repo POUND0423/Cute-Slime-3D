@@ -38,7 +38,7 @@
 ### 步驟
 
 1. 從 Microsoft Store 搜尋並安裝 **Lively Wallpaper**。
-2. 把專案資料夾裡的 `index.html`、`three.min.js`、`LivelyInfo.json`、`LivelyProperties.json`、`project.json` 打包成 zip。已經打包好的 `嘟嚕與啵啵桌布.zip` 也可以直接用。
+2. 到 [Releases](https://github.com/POUND0423/Cute-Slime-3D/releases) 下載最新的 `Cute-Slime-3D-v版本.zip`（例如 `Cute-Slime-3D-v0.1.0.zip`）。也可以自己把 `index.html`、`three.min.js`、`LivelyInfo.json`、`LivelyProperties.json`、`project.json` 打包成 zip。
 3. 打開 Lively，把 zip 拖進桌布清單（或按右上角的 **＋** 選擇檔案）。
 4. 在清單中點選「**嘟嚕與啵啵**」套用。
 5. 按 **Windows 鍵 + D** 回到桌面。
