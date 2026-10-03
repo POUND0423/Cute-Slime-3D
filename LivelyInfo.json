@@ -1,0 +1,15 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "嘟嚕與啵啵",
+  "Desc": "兩隻可以戳、拖、丟的 3D 果凍小夥伴，會互相碰撞，各自可以換口味。",
+  "Author": "",
+  "License": "MIT",
+  "Contact": "",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false,
+  "Id": null,
+  "Tags": null,
+  "Version": 0
+}

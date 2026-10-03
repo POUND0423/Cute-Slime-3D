@@ -1,0 +1,146 @@
+{
+  "file": "index.html",
+  "title": "嘟嚕與啵啵",
+  "type": "web",
+  "description": "兩隻可以戳、拖、丟的 3D 果凍小夥伴，會互相碰撞，各自可以換口味。",
+  "general": {
+    "properties": {
+      "count": {
+        "order": 0,
+        "text": "幾隻",
+        "type": "combo",
+        "value": 1,
+        "options": [
+          {
+            "label": "1 隻",
+            "value": 0
+          },
+          {
+            "label": "2 隻",
+            "value": 1
+          }
+        ]
+      },
+      "flavor1": {
+        "order": 1,
+        "text": "嘟嚕的口味",
+        "type": "combo",
+        "value": "soda",
+        "options": [
+          {
+            "label": "汽水（藍）",
+            "value": "soda"
+          },
+          {
+            "label": "草莓（粉紅）",
+            "value": "berry"
+          },
+          {
+            "label": "青蘋果（綠）",
+            "value": "apple"
+          },
+          {
+            "label": "芒果（黃）",
+            "value": "mango"
+          },
+          {
+            "label": "葡萄（紫）",
+            "value": "grape"
+          },
+          {
+            "label": "極光（彩虹白）",
+            "value": "aurora"
+          }
+        ]
+      },
+      "flavor2": {
+        "order": 2,
+        "text": "啵啵的口味",
+        "type": "combo",
+        "value": "berry",
+        "options": [
+          {
+            "label": "汽水（藍）",
+            "value": "soda"
+          },
+          {
+            "label": "草莓（粉紅）",
+            "value": "berry"
+          },
+          {
+            "label": "青蘋果（綠）",
+            "value": "apple"
+          },
+          {
+            "label": "芒果（黃）",
+            "value": "mango"
+          },
+          {
+            "label": "葡萄（紫）",
+            "value": "grape"
+          },
+          {
+            "label": "極光（彩虹白）",
+            "value": "aurora"
+          }
+        ]
+      },
+      "cycle": {
+        "order": 3,
+        "text": "自動換口味",
+        "type": "combo",
+        "value": 0,
+        "options": [
+          {
+            "label": "不要",
+            "value": 0
+          },
+          {
+            "label": "每 1 分鐘",
+            "value": 1
+          },
+          {
+            "label": "每 5 分鐘",
+            "value": 2
+          },
+          {
+            "label": "每 15 分鐘",
+            "value": 3
+          },
+          {
+            "label": "每 30 分鐘",
+            "value": 4
+          },
+          {
+            "label": "每 1 小時",
+            "value": 5
+          }
+        ]
+      },
+      "showText": {
+        "order": 4,
+        "text": "顯示標題文字",
+        "type": "bool",
+        "value": true
+      },
+      "showBar": {
+        "order": 5,
+        "text": "顯示口味按鈕",
+        "type": "bool",
+        "value": true
+      },
+      "showCount": {
+        "order": 6,
+        "text": "顯示 Q彈 次數",
+        "type": "bool",
+        "value": true
+      },
+      "sound": {
+        "order": 7,
+        "text": "音效",
+        "type": "bool",
+        "value": false
+      }
+    }
+  }
+}

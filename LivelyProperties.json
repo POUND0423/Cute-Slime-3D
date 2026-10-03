@@ -1,0 +1,70 @@
+{
+  "count": {
+    "type": "dropdown",
+    "value": 1,
+    "text": "幾隻",
+    "items": [
+      "1 隻",
+      "2 隻"
+    ]
+  },
+  "flavor1": {
+    "type": "dropdown",
+    "value": 0,
+    "text": "嘟嚕的口味",
+    "items": [
+      "汽水（藍）",
+      "草莓（粉紅）",
+      "青蘋果（綠）",
+      "芒果（黃）",
+      "葡萄（紫）",
+      "極光（彩虹白）"
+    ]
+  },
+  "flavor2": {
+    "type": "dropdown",
+    "value": 1,
+    "text": "啵啵的口味",
+    "items": [
+      "汽水（藍）",
+      "草莓（粉紅）",
+      "青蘋果（綠）",
+      "芒果（黃）",
+      "葡萄（紫）",
+      "極光（彩虹白）"
+    ]
+  },
+  "cycle": {
+    "type": "dropdown",
+    "value": 0,
+    "text": "自動換口味",
+    "items": [
+      "不要",
+      "每 1 分鐘",
+      "每 5 分鐘",
+      "每 15 分鐘",
+      "每 30 分鐘",
+      "每 1 小時"
+    ]
+  },
+  "showText": {
+    "type": "checkbox",
+    "value": true,
+    "text": "顯示標題文字"
+  },
+  "showBar": {
+    "type": "checkbox",
+    "value": true,
+    "text": "顯示口味按鈕"
+  },
+  "showCount": {
+    "type": "checkbox",
+    "value": true,
+    "text": "顯示 Q彈 次數"
+  },
+  "sound": {
+    "type": "checkbox",
+    "value": false,
+    "text": "音效"
+  }
+}
